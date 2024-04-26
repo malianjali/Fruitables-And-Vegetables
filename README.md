@@ -1,2 +1,4 @@
 # Fruitables-And-Vegetables
-This is a Sponsored Website on Shravani Foods Company.
+The main objective of project is to manage the details of fruits, type, category, and order. It 
+Manages all information about fruit and order. It carry the details are selling details, Buying 
+details, Billing details etc.
