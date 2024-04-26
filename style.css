@@ -1,0 +1,156 @@
+.div1
+{
+    background-color: #81C408;
+    height: 8vh;
+    color:white;
+    border-radius: 50px 20px 50px 20px;
+}
+
+.dropdown-menu li a:hover 
+{
+    background-color: orange;
+    
+}
+
+.div1 a:link,a:visited
+{
+    color: white;
+    text-decoration: none;
+}
+.breadcrumb-item::before
+{
+    color: white !important;
+}
+.breadcrumb-item>a:hover
+{
+    color: orange;
+}
+.navbar-nav li a{
+    color: black;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+input[type=search]
+{
+    height: 40px;
+    width: 40px;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-image:url('img/download.png') ;
+    background-size: 20px; */
+    border: solid orange 2px;
+    border-radius: 50%;
+}
+
+input[type=search]:hover
+{
+    background-color: orange;
+}
+input[type=search]::placeholder
+{
+    color: #81C408;
+    align-items: center;
+    height: 20px;
+    width: 20px;
+}
+.btn1
+{
+    background-color: #81C408;
+    
+}
+.btn1:hover
+{
+    background-color: orange;
+}
+.nav-pills li button
+{
+    width: 130px;
+    margin-left: 10px;
+}
+
+.nav-pills li button:focus
+{
+    background-color: orange !important;
+    color: white !important;
+}
+
+.banner-btn:hover
+{
+    background-color: #81C408;
+}
+
+.slider1 img:hover
+{
+    transform: scale(1.1,1.1);
+    transition: 2s;
+    
+}
+
+.slider1 .card:hover 
+{
+    box-shadow: 9px 10px 12px gray;
+    overflow: hidden;
+}
+.slider1 img
+{
+    border: 1px solid #81C408;
+   
+}
+
+.tag i {
+    font-size: 60px;
+    margin-bottom: 25px;
+    align-items: center;
+    display: inline-block;
+    margin-left: 50px;
+}
+.row 
+{
+    display: flex;
+    columns: auto auto auto;
+    
+}
+
+.row .card
+{
+    height: 100%;
+    width: 90%;
+    border: none;
+    margin-left: 30px;
+    margin-right: 30px;
+   border-radius: 50px;
+}
+
+.list-unstyled li,a:link,a:visited 
+{
+    color: lightgrey;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.backimg
+{
+    background-image:url('img/cart-page-header-img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+input[type=button].btn:hover
+{
+    color: white;
+    background-color: orange;
+}
+
+.prod .card
+{
+    overflow: hidden;
+    border: 1px solid #81C408;
+}
+
+.prod img:hover
+{
+    transform: scale(1.1,1.1);
+    transition: 0.5s;
+}
